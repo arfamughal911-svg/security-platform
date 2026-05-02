@@ -13,5 +13,5 @@ spring.kafka.consumer.group-id=security-group
 spring.kafka.consumer.auto-offset-reset=earliest
 
 # API Keys
-abuseipdb.api.key=YOUR_ABUSEIPDB_KEY_HERE
+abuseipdb.api.key=your_abuseipdb_key_here
 alienvault.api.key=YOUR_ALIENVAULT_KEY_HERE
